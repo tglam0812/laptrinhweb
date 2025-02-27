@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Đây là file merge_test.txt thuộc branch main và test_merge
-=======
-Đây là file merge_test.txt thuộc branch test_conflict
->>>>>>> test_conflict
+Đây là file merge_test.txt thuộc branch main, test_merge và test_conflict.
