@@ -1,1 +1,2 @@
 Đây là file merge_test.txt thuộc branch main, test_merge và test_conflict.
+1
