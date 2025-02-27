@@ -1,0 +1,1 @@
+Đây là file merge_test.txt thuộc branch test_conflict
